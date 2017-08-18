@@ -2,6 +2,6 @@ I learned some Scheme in graduate school, but recently I decided to get myself o
 
 Anyway, I decided to work through the examples in the book and type up my "solutions" to the prompts. The difficulty curve of the text is definitely non-linear. Chapter 9 (where you build the applicative-order Y combinator) and Chapter 10 (where you build a simple Scheme interpreter) were quite challenging.
 
-I used Gambit-Scheme (http://gambitscheme.org/wiki/index.php/Main_Page) to run my code, so there may be slight variations between how I did things and how the authors/anyone else might do these. Also, each chapter file starts with code from previous chapters that I thought might be needed in the sequel. Because of this, you might need to scroll down (sometimes quite a bit) to see the "start" of a given chapter.
+I used Gambit-Scheme (http://gambitscheme.org/wiki/index.php/Main_Page) to run my code, so there may be slight variations between how I did things and how the authors/anyone else might do these.
 
-Questions/comments are welcome. 
+Questions/comments are welcome.
